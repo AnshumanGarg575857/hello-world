@@ -1,3 +1,2 @@
 # hello-world
-Hi people!
-Anshuman here, i am a begineer!
+just another repository
