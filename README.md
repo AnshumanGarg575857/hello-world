@@ -1,3 +1,3 @@
 # hello-world
-Hi-people!
+Hi people!
 Anshuman here, i am a begineer!
